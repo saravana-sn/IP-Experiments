@@ -1,7 +1,7 @@
 # IP-Experiments
 
 >- Experiment 1 -
->[Repository](https://github.com/saravana-sn/wedding-photography) | [LIVE DEMO](https://saravana-sn.github.io/wedding-photography/) | [Report](https://github.com/saravana-sn/wedding-photography/blob/master/Screenshots/70_Exp1_IP_SaravanaSundar.pdf)
+>[Repository](https://github.com/saravana-sn/wedding-photography) | [LIVE DEMO](https://saravana-sn.github.io/wedding-photography-website/) | [Report](https://github.com/saravana-sn/wedding-photography/blob/master/Screenshots/70_Exp1_IP_SaravanaSundar.pdf)
 >- Experiment 2 -
 >[Repository](https://github.com/saravana-sn/rock-paper-scissors) | [LIVE DEMO](https://saravana-sn.github.io/rock-paper-scissors/) | [Report](https://github.com/saravana-sn/rock-paper-scissors/blob/master/Screenshots/70_Exp2_IP_SaravanaSundar.pdf)
 >- Experiment 3 -
